@@ -10,5 +10,5 @@ Today I Learned.
 * TIL 2023-06-22 - [Postman MockServer & 백준1655](https://velog.io/@kuronuma_daisy/TIL-2023-06-22)
 
 ### Algorithm  
-#### baekjoon online judge  
-* TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
+* baekjoon online judge  
+  * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
