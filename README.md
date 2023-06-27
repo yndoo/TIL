@@ -4,7 +4,7 @@ Today I Learned.
 
 ---
 ### Android
-* TIL 2023-06-26 - [com.google.gson.stream.MalformedJsonException: Unterminated object at line 관련 에러](https://velog.io/@kuronuma_daisy/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%97%90%EB%9F%AC)
+* TIL 2023-06-26 - [com.google.gson.stream.MalformedJsonException: Unterminated object at line 관련 에러](https://github.com/yndoo/TIL/blob/main/Android/com.google.gson.stream.MalformedJsonException%3A%20Unterminated%20object%20at%20line%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md)
 
 ### Postman
 * TIL 2023-06-22 - [Postman MockServer & 백준1655](https://github.com/yndoo/TIL/blob/main/Postman/Postman%20MockServer.md)
