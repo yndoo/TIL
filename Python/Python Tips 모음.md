@@ -53,10 +53,10 @@
 #### for-else 문
 ```python
 for i in ragne(n):
-	if i%10==0:
+    if i%10==0:
     	break
 else:
-	print("10으로 나눠 떨어지는 수가 없을 경우")
+    print("10으로 나눠 떨어지는 수가 없을 경우")
 ```
 
 #### 파이썬에서 아스키코드 변환
@@ -70,7 +70,7 @@ else:
 #### try-except
 ```python
 try:
-	실행할 코드
+    실행할 코드
 except IndexError:
-	예외 발생시 실행할 코드
+    예외 발생시 실행할 코드
 ```
