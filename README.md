@@ -9,6 +9,9 @@ Today I Learned.
 ### Postman
 * TIL 2023-06-22 - [Postman MockServer & 백준1655](https://github.com/yndoo/TIL/blob/main/Postman/Postman%20MockServer.md)
 
+### Python
+* TIL 2023-06-28 - [Python3 Tips : 유용했던 내장함수, 자료구조 정리](https://github.com/yndoo/TIL/tree/main/Python)
+
 ### Algorithm  
 * baekjoon online judge  
   * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
