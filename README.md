@@ -1,8 +1,12 @@
-# TIL  
+# TIL
+
 Today I Learned.  
 배움을, 성장을 기록하자!  
+[벨로그](https://velog.io/@kuronuma_daisy)에 더 자유롭게 기록합니다.
 
----
+
+---  
+
 ### Android
 * TIL 2023-06-26 - [com.google.gson.stream.MalformedJsonException: Unterminated object at line 관련 에러](https://github.com/yndoo/TIL/blob/main/Android/com.google.gson.stream.MalformedJsonException%3A%20Unterminated%20object%20at%20line%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md)
 
