@@ -19,3 +19,4 @@ Today I Learned.
 ### Algorithm  
 * baekjoon online judge  
   * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
+  * TIL 2023-06-29 - [백준16967](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/16967.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
