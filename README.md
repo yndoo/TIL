@@ -24,3 +24,6 @@ Today I Learned.
 * baekjoon online judge  
   * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
   * TIL 2023-06-29 - [백준16967](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/16967.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
+
+### ETC
+* TIL 2023-06-30 - [현대모비스 알고리즘 경진대회 예선 참가](https://velog.io/@kuronuma_daisy/23%EB%85%84-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%98%88%EC%84%A0-%ED%9B%84%EA%B8%B0)  
