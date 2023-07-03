@@ -11,9 +11,11 @@ Today I Learned.
 * TIL 2023-06-26 - [com.google.gson.stream.MalformedJsonException: Unterminated object at line 관련 에러](https://github.com/yndoo/TIL/blob/main/Android/com.google.gson.stream.MalformedJsonException%3A%20Unterminated%20object%20at%20line%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md)
 * TIL 2023-07-01 - [Kotlin 기초 - 변수와 함수](https://github.com/yndoo/TIL/blob/main/Android/Kotlin%20%EA%B8%B0%EC%B4%88%20-%20%EB%B3%80%EC%88%98%EC%99%80%20%ED%95%A8%EC%88%98.md)
 * TIL 2023-07-02 - [Kotlin 기초 - 조건문과 반복문](https://github.com/yndoo/TIL/blob/main/Android/Kotlin%20%EA%B8%B0%EC%B4%88%20-%20%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
+* TIL 2023-07-03 - [Kotlin 기초 - 클래스와 생성자](https://github.com/yndoo/TIL/blob/main/Android/Kotlin%20%EA%B8%B0%EC%B4%88%20-%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 
-### CS 전공지식 노트  
-* TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%20%EB%85%B8%ED%8A%B8/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
+### CS 
+* TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
+* TIl 2023-07-03 - [정처기 실기 공부(1)](https://github.com/yndoo/TIL/tree/main/CS)
 
 
 ### Postman
