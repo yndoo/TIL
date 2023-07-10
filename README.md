@@ -21,7 +21,8 @@ Today I Learned.
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
 * TIl 2023-07-03 - [정처기 실기 공부](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EA%B3%B5%EB%B6%80.md)
 * TIL 2023-07-04 - [정처기 실기 정리 추가](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EA%B3%B5%EB%B6%80.md)
-* TIL 2023-07-06 - [SQL(정처기 실기)](https://github.com/yndoo/TIL/blob/main/CS/SQL(%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0).md)  
+* TIL 2023-07-06 - [SQL(정처기 실기)](https://github.com/yndoo/TIL/blob/main/CS/SQL(%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0).md)
+* TIL 2023-07-10 - [정처기 실기 정리 추가](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EA%B3%B5%EB%B6%80.md)
 
 
 ### Postman
