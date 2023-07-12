@@ -17,6 +17,7 @@ Today I Learned.
 * TIL 2023-07-07 - [Splash Screen 만들기(kotlin)](https://github.com/yndoo/TIL/blob/main/Android/Splash%20Screen%20%EB%A7%8C%EB%93%A4%EA%B8%B0(kotlin).md)
 * TIL 2023-07-09 - [Retrofit2 통신](https://github.com/yndoo/TIL/blob/main/Android/Retrofit2%20%ED%86%B5%EC%8B%A0.md)
 * TIL 2023-07-11 - [뷰 클래스와 화면 구성](https://github.com/yndoo/TIL/blob/main/Android/%EB%B7%B0%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1.md)
+* TIL 2023-07-12 - [기본적인 뷰와 속성(작성중)](https://velog.io/@kuronuma_daisy/android7)
 
 ### CS 
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
