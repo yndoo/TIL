@@ -47,3 +47,4 @@ Today I Learned.
 ### ETC
 * TIL 2023-06-30 - [현대모비스 알고리즘 경진대회 예선 참가](https://velog.io/@kuronuma_daisy/23%EB%85%84-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%98%88%EC%84%A0-%ED%9B%84%EA%B8%B0) & 프로그래머스 SQL 1레벨 6문제
 * TIL 2023-07-08 - [시험 후기](https://velog.io/@kuronuma_daisy/TIL-2023-07-08)
+* TIL 2023-07-18 - [일기 TIL](https://velog.io/@kuronuma_daisy/%EC%9D%BC%EA%B8%B0)
