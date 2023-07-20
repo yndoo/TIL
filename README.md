@@ -31,6 +31,7 @@ Today I Learned.
 * TIL 2023-07-13 - [SQL 정리 추가](https://github.com/yndoo/TIL/blob/main/CS/SQL(%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0).md)
 * TIL 2023-07-15 - [정처기 정리 추가(보안 공격 위주)](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EA%B3%B5%EB%B6%80.md)
 * TIL 2023-07-19 - [정처기 암기법](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EC%95%94%EA%B8%B0%EB%B2%95.md)
+* TIL 2023-07-20 - [정처기 암기법 추가](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EC%95%94%EA%B8%B0%EB%B2%95.md)
 
 
 
