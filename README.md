@@ -33,7 +33,7 @@ Today I Learned.
 * TIL 2023-07-19 - [정처기 암기법](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EC%95%94%EA%B8%B0%EB%B2%95.md)
 * TIL 2023-07-20 - [정처기 암기법 추가](https://github.com/yndoo/TIL/blob/main/CS/%EC%A0%95%EC%B2%98%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EC%95%94%EA%B8%B0%EB%B2%95.md)
 * TIL 2023-07-21 - [정처기-암호화 알고리즘](https://velog.io/@kuronuma_daisy/%EC%95%94%ED%98%B8%ED%99%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
+* TIL 2023-07-22 - [프로세스 스케줄링](https://github.com/yndoo/TIL/blob/main/CS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
 
 ### Postman
