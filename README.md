@@ -21,6 +21,7 @@ Today I Learned.
 * TIL 2023-07-14 - [뷰와 속성 예시 추가작성](https://github.com/yndoo/TIL/blob/main/Android/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%B7%B0%EC%99%80%20%EC%86%8D%EC%84%B1.md)
 * TIL 2023-07-16 - [Kotlin 데이터 종류 (작성 중)](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
 * TIL 2023-07-17 - [Kotlin 데이터 클래스 함수 내용 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
+* TIL 2023-07-24 - [뷰 바인딩](https://github.com/yndoo/TIL/blob/main/Android/%EB%B7%B0%EB%B0%94%EC%9D%B8%EB%94%A9.md)
 
 ### CS 
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
