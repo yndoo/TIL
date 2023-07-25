@@ -81,3 +81,48 @@ fun main() {
 non data class toString : com.example.test4.ch2.Test2Kt$main$NonDataClass@61bbe9ba
 data class toString : DataClass(name=k, email=a@a.com, age=10)
 ```
+
+## 오브젝트 클래스
+* 익명 클래스를 만들 목적으로 사용
+* 클래스 이름이 없어 선언하면서 동시에 객체를 생성해야 함
+* `object`라는 키워드를 사용
+##### 🐼 예시
+```kotlin
+val obj = object {
+   var data = 10
+   fun some() {
+      println("data : $data")
+   }
+}
+fun main() {
+   obj.data = 20 	// 오류!
+   obj.some()		// 오류!
+}
+```
+> object 키워드로 클래스를 선언했지만 타입을 명시하지 앉았으므로 코틀린의 최상위 타입인 Any로 취급. 그런데 Any 타입 객체에는 data(), some() 멤버가 없어서 오류가 발생.
+그래서 보통 타입까지 입력해서 선언.
+
+##### 🐼 타입 지정 예시
+```kotlin
+open class Super {
+   open var data = 10
+   open fun some() {
+      println("i am super some() : $data")
+   }
+}
+val obj = object: Super() {
+   override var data = 10
+   override fun some() {
+      println("i am object some() : $data")
+   }
+}
+fun main() {
+   obj.data = 30 	// 성공!
+   obj.some()		// 성공!
+}
+```
+##### 🐼 실행 결과
+* 이 익명클래스는 Super 클래스를 상속받아 obj 객체를 활용해 Super 클래스에 선언된 멤버 접근 가능
+```
+i am object some() : 30
+```
