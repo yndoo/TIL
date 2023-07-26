@@ -1,4 +1,3 @@
-`아직 미완성!!`
 ## 데이터 클래스
 * 데이터 클래스는 `data` 키워드로 선언
 * VO 클래스를 편리하게 이용할 수 있게 해줌  
@@ -126,3 +125,42 @@ fun main() {
 ```
 i am object some() : 30
 ```
+## 컴패니언 클래스
+* 객체 생성 없이 클래스 이름으로 멤버에 접근 가능
+* `companion object { }` 형태로 클래스 내부에 선언
+##### 🐼 일반 클래스의 멤버 접근
+* 클래스 이름으로 접근하면 오류
+```kotlin
+class MyClass {
+   var data = 10
+   fun some() {
+      println(data)
+   }
+}
+fun main() {
+   val obj = MyClass()
+   obj.data = 20	// 성공!
+   obj.some()		// 성공!
+   MyClass.data=20	// 오류!
+   MyClass.some()	// 오류!
+}
+```
+##### 🐼 컴패니언 클래스의 멤버 접근
+```kotlin
+class MyClass {
+   companion object {
+      var data = 10
+      fun some() {
+         println(data)
+      }
+   }
+}
+fun main() {
+   MyClass.data=20	// 성공!
+   MyClass.some()	// 성공!
+}
+```
+
+#### 자바의 static과 같은 역할?
+* 코틀린은 static 지원 X, 컴패니언 클래스가 자바의 static을 대체한다고 볼 수 O!
+* 객체를 생성하지 않고 클래스의 멤버를 클래스 이름으로 접근하는 기능이 같음
