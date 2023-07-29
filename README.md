@@ -25,6 +25,7 @@ Today I Learned.
 * TIL 2023-07-25 - [Kotlin 오브젝트 클래스 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
 * TIL 2023-07-26 - [Koltin 컴패니언 클래스](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md), [프로그래머스 Lv2 풀이](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17687.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85n%EC%A7%84%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84)
 * TIL 2023-07-28 - [Kotlin 람다 함수 정리](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
+* TIL 2023-07-29 - [Kotlin 람다 함수 마무리, 함수 타입](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 
 ### CS 
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
