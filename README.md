@@ -23,7 +23,7 @@ Today I Learned.
 * TIL 2023-07-17 - [Kotlin 데이터 클래스 함수 내용 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
 * TIL 2023-07-24 - [뷰 바인딩](https://github.com/yndoo/TIL/blob/main/Android/%EB%B7%B0%EB%B0%94%EC%9D%B8%EB%94%A9.md)
 * TIL 2023-07-25 - [Kotlin 오브젝트 클래스 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
-* TIL 2023-07-26 - [Koltin 컴패니언 클래스](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md), [프로그래머스 Lv2 풀이](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17687.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85n%EC%A7%84%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84)
+* TIL 2023-07-26 - [Koltin 컴패니언 클래스](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
 * TIL 2023-07-28 - [Kotlin 람다 함수 정리](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 * TIL 2023-07-29 - [Kotlin 람다 함수 마무리, 함수 타입](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 * TIL 2023-07-30 - [전화번호 키패드 구현](https://github.com/yndoo/AndroidPracticeProjects/tree/master/ch7_layout)
@@ -53,6 +53,9 @@ Today I Learned.
   * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
   * TIL 2023-06-29 - [백준16967](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/16967.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
   * TIL 2023-07-27 - 백트래킹 세 문제 [백준N-Queen](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen), [백준 N과 M(3)](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/15651.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%883%EF%BC%89), [백준 N과 M(4)](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/15652.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%884%EF%BC%89)
+* Programmers
+  * TIL 2023-07-26 - [n진수 게임](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17687.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85n%EC%A7%84%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84)
+  * TIL 2023-07-31 - [더 맵게](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42626.%E2%80%85%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C), [하노이의 탑](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91)
 
 ### ETC
 * TIL 2023-06-30 - [현대모비스 알고리즘 경진대회 예선 참가](https://velog.io/@kuronuma_daisy/23%EB%85%84-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%98%88%EC%84%A0-%ED%9B%84%EA%B8%B0) & 프로그래머스 SQL 1레벨 6문제
