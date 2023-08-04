@@ -61,6 +61,7 @@ Today I Learned.
   * TIL 2023-07-31 - [더 맵게](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42626.%E2%80%85%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C), [하노이의 탑](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91), [오픈채팅방](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42888.%E2%80%85%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
 * 소프티어
   * TIL 2023-08-03 - [장애물 인식 프로그램](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EC%9E%A5%EC%95%A0%EB%AC%BC%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+  * TIL 2023-08-04 - Level 2 세 문제 [비밀 메뉴](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EB%B9%84%EB%B0%80%20%EB%A9%94%EB%89%B4), [회의실 예약](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EC%98%88%EC%95%BD), [지도 자동 구축](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EC%A7%80%EB%8F%84%20%EC%9E%90%EB%8F%99%20%EA%B5%AC%EC%B6%95)
 
 ### ETC
 * TIL 2023-06-30 - [현대모비스 알고리즘 경진대회 예선 참가](https://velog.io/@kuronuma_daisy/23%EB%85%84-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%98%88%EC%84%A0-%ED%9B%84%EA%B8%B0) & 프로그래머스 SQL 1레벨 6문제
