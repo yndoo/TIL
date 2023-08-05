@@ -90,3 +90,34 @@ fun some**(no1: Int, no2: Int): Int** {
 ```kotlin
 val some: (Int, Int) -> Int = {no1: Int, no2: Int -> n01 + no2}
 ```
+### 타입 별칭 - typealias
+* 타입의 별칭을 선언하는 키워드 `typealias`
+* 함수 타입뿐만 아니라 데이터 타입 선언할 때도 사용 (_함수 타입 선언에 주로 사용_)
+#### 타입 별칭 선언과 사용 예시
+* 코틀린의 정수 타입인 Int를 MyInt라는 새로운 별칭으로 선언
+```kotlin
+typealias MyInt = Int
+fun main() {
+   val data1: Int = 10
+   val data2: MyInt = 10
+}
+```
+#### 함수 타입 별칭 예시
+* (Int, Int) -> Boolean 타입을 MyFunType 이라는 별칭으로 선언하면,
+* MyFunType으로 선언한 변수에는 (Int, Int) -> Boolean 타입에 맞는 함수를 대입해야 함
+``` kotlin
+typealias MyFunType = (Int, Int) -> Boolean
+
+fun main() {
+   val someFun: MyFunType = {no1: Int, no2: Int ->
+      no1 > no2
+   }
+   println(someFun(10, 20))
+   println(someFun(20, 10))
+}
+```
+⬇️ 실행 결과
+```
+false
+true
+```
