@@ -121,3 +121,52 @@ fun main() {
 false
 true
 ```
+### 매개변수 타입 생략
+* 매개변수의 타입을 유추할 수 있다면 타입 선언 생략 가능
+* 타입 유추 가능한 상황이라면 어디서든 통함
+#### 매개변수 타입을 생략한 함수 선언
+##### 예시 1
+``` kotlin
+typealias MyFunType = (Int, Int) -> Boolean
+
+val someFun: MyFunType = {no1, no2 ->
+   no1 > no2
+}
+```
+##### 예시 2
+```kotlin
+val someFun: (Int, Int) -> Boolean = {no1, no2 ->
+   no1 > no2
+}
+```
+#### 변수 선언 시 타입 생략
+* 또한 함수의 타입을 유추 가능하다면 변수를 선언할 때 타입을 생략 가능
+```kotlin
+val someFun = {no1: Int, no2: Int ->
+   no1 > no2
+}
+```
+
+### 고차 함수(high order function)
+* 고차 함수란 `함수`를 매개변수로 전달받거나 반환하는 함수
+* 함수를 매개변수로 이용할 수 있는 것은 함수를 변수에 대입할 수 있기 때문!
+#### 고차 함수 예시
+* 고차 함수 `hofFun` : 매개변수로 (Int) -> Boolean 함수를 받음, () -> String 함수로 반환함
+```kotlin
+fun hofFun(arg: (Int) -> Boolean):() -> String {
+   val result = if(arg(10)) {
+      "valid"
+   } else {
+      "invalid"
+   }
+   return {"hofFun result : $result"}
+}
+fun main() {
+   val result = hofFun({no -> no > 0})
+   println(result())
+}
+```
+⬇️ 실행 결과
+```
+hofFun result : valid
+```
