@@ -30,6 +30,7 @@ Today I Learned.
 * TIL 2023-08-01 - [스톱워치 기능 구현](https://github.com/yndoo/AndroidPracticeProjects/tree/master/ch8_event), [패키지명 변경 방법 작성](https://github.com/yndoo/TIL/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%8C%A8%ED%82%A4%EC%A7%80%EB%AA%85%20%EB%B3%80%EA%B2%BD%20%EB%B0%A9%EB%B2%95.md)
 * TIL 2023-08-02 - [스톱워치 기능, 뒤로 가기 버튼 이벤트 처리 설명](https://github.com/yndoo/AndroidPracticeProjects/blob/master/ch8_event/README.md)
 * TIL 2023-08-05 - [Kotlin typelias 설명 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
+* TIL 2023-08-07 - [Kotlin 타입 생략, 고차 함수 설명 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 
 ### CS 
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
