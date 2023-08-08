@@ -49,10 +49,11 @@ Today I Learned.
 ### Postman
 * TIL 2023-06-22 - [Postman MockServer & 백준1655](https://github.com/yndoo/TIL/blob/main/Postman/Postman%20MockServer.md)
 
-### Python
+### 알고리즘에 대하여 
 * TIL 2023-06-28 - [Python3 Tips : 유용했던 내장함수, 자료구조 정리](https://github.com/yndoo/TIL/blob/main/Python/Python%20Tips%20%EB%AA%A8%EC%9D%8C.md)
+* TIl 2023-08-08 - [N-Queens 문제 이해, 풀이(Python, C++)](https://github.com/yndoo/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/N-Queens%20%EB%AC%B8%EC%A0%9C%20%EC%9D%B4%ED%95%B4%2C%20%ED%92%80%EC%9D%B4(Python%2C%20C%2B%2B).md)
 
-### Algorithm  
+### Algorithm 문제 (코드)
 * baekjoon online judge  
   * TIL 2023-06-27 - [백준13335](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD)
   * TIL 2023-06-29 - [백준16967](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/16967.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
