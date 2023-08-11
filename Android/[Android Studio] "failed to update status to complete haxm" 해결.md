@@ -20,4 +20,7 @@ HAXM 설치가 자꾸 실패해서 Windows 기능에 있는 `Windows 하이퍼�
 에뮬레이터 녹화에서 `Use emulator recording`을 체크 해제하고 녹화하면 화면 깜빡임 없이 녹화된다! (실행 시 내 눈에는 깜빡거리는게 보임)
 
 * 트와이스 앱 녹화 gif
-![](https://velog.velcdn.com/images/kuronuma_daisy/post/241e76a4-fb2d-4750-aa03-9dc869e7b495/image.gif)
+![](https://velog.velcdn.com/images/kuronuma_daisy/post/241e76a4-fb2d-4750-aa03-9dc869e7b495/image.gif)  
+~~ gif파일이 왜 안올라가쥥~~
+
+[벨로그에서 보기](https://velog.io/@kuronuma_daisy/Android-Studio-failed-to-update-status-to-complete-haxm-%ED%95%B4%EA%B2%B0)
