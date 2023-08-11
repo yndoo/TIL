@@ -32,6 +32,7 @@ Today I Learned.
 * TIL 2023-08-05 - [Kotlin typelias 설명 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 * TIL 2023-08-07 - [Kotlin 타입 생략, 고차 함수 설명 추가](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%9E%8C%EB%8B%A4%20%ED%95%A8%EC%88%98%EC%99%80%20%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98.md)
 * TIL 2023-08-10 - [[Android Studio] requires androidx support 에러 기록](https://github.com/yndoo/TIL/blob/main/Android/%5BAndroid%20Studio%5D%20requires%20androidx%20support%20%EC%97%90%EB%9F%AC.md)
+* TIL 2023-08-11 - [[Android Studio] "failed to update status to complete haxm" 해결](https://github.com/yndoo/TIL/blob/main/Android/%5BAndroid%20Studio%5D%20%22failed%20to%20update%20status%20to%20complete%20haxm%22%20%ED%95%B4%EA%B2%B0.md)  
 
 ### CS 
 * TIL 2023-06-29 - [가상 메모리와 스레싱](https://github.com/yndoo/TIL/blob/main/CS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
