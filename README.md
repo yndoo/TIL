@@ -43,6 +43,7 @@ Today I Learned.
 * TIL 2023-08-11 - [[Android Studio] "failed to update status to complete haxm" 해결](https://github.com/yndoo/TIL/blob/main/Android/%5BAndroid%20Studio%5D%20%22failed%20to%20update%20status%20to%20complete%20haxm%22%20%ED%95%B4%EA%B2%B0.md)  
 * TIL 2023-08-13 - [잭팟 주사위 앱 개발](https://github.com/yndoo/dice_app)
 * TIL 2023-08-14 - [잭팟 주사위 앱 마무리 및 포스팅](https://github.com/yndoo/dice_app/blob/master/README.md)
+* TIL 2023-08-16 - [명언 앱 개발](https://github.com/yndoo/GoodWordsApp)
 
 </div>
 </details>
