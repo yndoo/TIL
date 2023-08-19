@@ -46,6 +46,7 @@ Today I Learned.
 * TIL 2023-08-16 - [명언 앱 개발](https://github.com/yndoo/GoodWordsApp)
 * TIL 2023-08-17 - [랜덤 명언 앱, ListView, font 적용 기록](https://github.com/yndoo/TIL/blob/main/Android/%EB%9E%9C%EB%8D%A4%20%EB%AA%85%EC%96%B8%20%EC%95%B1%2C%20ListView%2C%20font%20%EC%A0%81%EC%9A%A9.md)
 * TIL 2023-08-18 - [RecyclerView 리사이클러뷰, 클릭 이벤트 처리 기록](https://github.com/yndoo/recyclerview_ex)
+* TIL 2023-08-19 - [setResult 등 활용 액티비티간 데이터 전송(랜덤 명업 앱Ver.2)](https://github.com/yndoo/GoodWordsApp/blob/master/README.md)
 
 </div>
 </details>
