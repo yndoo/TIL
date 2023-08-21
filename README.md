@@ -48,7 +48,7 @@ Today I Learned.
 * TIL 2023-08-18 - [RecyclerView 리사이클러뷰, 클릭 이벤트 처리 기록](https://github.com/yndoo/recyclerview_ex)
 * TIL 2023-08-19 - [setResult 등 활용 액티비티간 데이터 전송(랜덤 명업 앱Ver.2)](https://github.com/yndoo/GoodWordsApp/blob/master/README.md)
 * TIL 2023-08-20 - [Koltin 널 안전성 연산자 기록](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%84%90%20%EC%95%88%EC%A0%84%EC%84%B1%20(%3F%20.%3F%20%3F%3A%20!!%20%EC%97%B0%EC%82%B0%EC%9E%90).md)
-* TIL 2023-08-21 - [가수별 노래 리스트 앱 개발](https://github.com/yndoo/trot_list)
+* TIL 2023-08-21 - [가수별 노래 리스트 앱 개발 마무리](https://github.com/yndoo/trot_list)
 
 </div>
 </details>
