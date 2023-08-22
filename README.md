@@ -50,6 +50,7 @@ Today I Learned.
 * TIL 2023-08-20 - [Koltin 널 안전성 연산자 기록](https://github.com/yndoo/TIL/blob/main/Android/%5BKotlin%5D%20%EB%84%90%20%EC%95%88%EC%A0%84%EC%84%B1%20(%3F%20.%3F%20%3F%3A%20!!%20%EC%97%B0%EC%82%B0%EC%9E%90).md)
 * TIL 2023-08-21 - [가수별 노래 리스트 앱 개발 마무리](https://github.com/yndoo/trot_list)
 * TIL 2023-08-22 - [Navigaion, Fragment 활용 포스팅](https://github.com/yndoo/trot_list/blob/master/README.md)
+* TIL 2023-08-23 - [책읽고 인텐트 이해하기 - 인텐트 정리](https://github.com/yndoo/TIL/blob/main/Android/%EC%9D%B8%ED%85%90%ED%8A%B8%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 
 </div>
 </details>
