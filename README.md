@@ -52,6 +52,7 @@ Today I Learned.
 * TIL 2023-08-22 - [Navigaion, Fragment 활용 포스팅](https://github.com/yndoo/trot_list/blob/master/README.md)
 * TIL 2023-08-23 - [책읽고 인텐트 이해하기 - 인텐트 정리](https://github.com/yndoo/TIL/blob/main/Android/%EC%9D%B8%ED%85%90%ED%8A%B8%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 * TIL 2023-08-24 - [책읽고 인텐트 이해하기 - 엑스트라 데이터](https://github.com/yndoo/TIL/blob/main/Android/%EC%9D%B8%ED%85%90%ED%8A%B8%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
+* TIL 2023-08-26 - [책읽고 인텐트 이해하기 - 화면 되돌리기](https://github.com/yndoo/TIL/blob/main/Android/%EC%9D%B8%ED%85%90%ED%8A%B8%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 
 </div>
 </details>
