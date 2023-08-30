@@ -55,6 +55,7 @@ Today I Learned.
 * TIL 2023-08-26 - [책읽고 인텐트 이해하기 - 화면 되돌리기](https://github.com/yndoo/TIL/blob/main/Android/%EC%9D%B8%ED%85%90%ED%8A%B8%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 * TIL 2023-08-27 - [Firebase 회원가입, 이메일 로그인, 익명 로그인](https://github.com/yndoo/firebase_login_test)
 * TIL 2023-08-29 - [운동 메모 애플리케이션 제작, 구조도 작성](https://github.com/yndoo/DietMemoApp)
+* TIL 2023-08-30 - [[Android] 아이템 모서리 둥글게 Radius](https://github.com/yndoo/TIL/blob/main/Android/%5BAndroid%5D%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EB%AA%A8%EC%84%9C%EB%A6%AC%20%EB%91%A5%EA%B8%80%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20Radius.md)
 
 </div>
 </details>
