@@ -104,9 +104,13 @@ Today I Learned.
   * TIL 2023-08-03 - [2468 안전 영역](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD)
   * TIL 2023-08-06 - DP 두 문제 [12865 평범한 배낭](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD), [10844 쉬운 계단 수](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/10844.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98)
   * TIL 2023-08-28 - [틱택토](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/7682.%E2%80%85%ED%8B%B1%ED%83%9D%ED%86%A0), [문자열 게임2](https://github.com/yndoo/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md)
+  * TIL 2023-08-31 - [알파벳](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3), [동전 2](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852)
+    
+    
 ### Programmers
   * TIL 2023-07-26 - [n진수 게임](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17687.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85n%EC%A7%84%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84)
   * TIL 2023-07-31 - [더 맵게](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42626.%E2%80%85%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C), [하노이의 탑](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91), [오픈채팅방](https://github.com/yndoo/algorithm-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42888.%E2%80%85%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
+
 ### 소프티어
   * TIL 2023-08-03 - [장애물 인식 프로그램](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EC%9E%A5%EC%95%A0%EB%AC%BC%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
   * TIL 2023-08-04 - Level 2 세 문제 [비밀 메뉴](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EB%B9%84%EB%B0%80%20%EB%A9%94%EB%89%B4), [회의실 예약](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EC%98%88%EC%95%BD), [지도 자동 구축](https://github.com/yndoo/algorithm-study/tree/main/%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4/%EC%A7%80%EB%8F%84%20%EC%9E%90%EB%8F%99%20%EA%B5%AC%EC%B6%95)
