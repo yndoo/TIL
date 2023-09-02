@@ -105,6 +105,7 @@ Today I Learned.
   * TIL 2023-08-06 - DP 두 문제 [12865 평범한 배낭](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD), [10844 쉬운 계단 수](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/10844.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98)
   * TIL 2023-08-28 - [틱택토](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/7682.%E2%80%85%ED%8B%B1%ED%83%9D%ED%86%A0), [문자열 게임2](https://github.com/yndoo/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md)
   * TIL 2023-08-31 - [알파벳](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3), [동전 2](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852)
+  * TIL 2023-09-02 - DP 유형복습 및 풀이(너무 어렵다..😭) [내려가기](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2096.%E2%80%85%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0), [스티커](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/9465.%E2%80%85%EC%8A%A4%ED%8B%B0%EC%BB%A4) 
     
     
 ### Programmers
