@@ -110,7 +110,8 @@ Today I Learned.
   * TIL 2023-08-31 - [알파벳](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3), [동전 2](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852)
   * TIL 2023-09-02 - DP 유형복습 및 풀이(너무 어렵다..😭) [내려가기](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2096.%E2%80%85%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0), [스티커](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/9465.%E2%80%85%EC%8A%A4%ED%8B%B0%EC%BB%A4)
   * TIL 2023-09-04 - DP 타일링 공부.. 및 풀이 [타일채우기](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2133.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0), [암호코드](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2011.%E2%80%85%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C)
-  * TIL 2023-09-08 - DP 세 문제 공부..(또?)(https://github.com/yndoo/algorithm-study/commits/main)
+  * TIL 2023-09-08 - DP 세 문제 공부..(또?) [0908](https://github.com/yndoo/algorithm-study/commits/main)
+  * TIL 2023-09-13 - C++로 전향 후 첫 기록?ㅠㅠ 재귀 공부 [하노이 탑 이동 순서](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C), [Z](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z)
     
     
 ### Programmers
