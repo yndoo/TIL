@@ -91,6 +91,7 @@ Today I Learned.
 * TIl 2023-08-08 - [N-Queens 문제 이해, 풀이(Python, C++)](https://github.com/yndoo/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/N-Queens%20%EB%AC%B8%EC%A0%9C%20%EC%9D%B4%ED%95%B4%2C%20%ED%92%80%EC%9D%B4(Python%2C%20C%2B%2B).md)
 * TIL 2023-08-09 - [C++ 문자열 Split](https://github.com/yndoo/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/C%2B%2B%20%EB%AC%B8%EC%9E%90%EC%97%B4%20split()%20%EA%B5%AC%ED%98%84.md)
 * TIL 2023-08-12 - [C++ sort, priority_queue 기록](https://github.com/yndoo/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5BC%2B%2B%5D%20sort%2C%20prioruty_queue%20%EA%B8%B0%EB%A1%9D.md)
+* TIL 2023-09-14 - [C++ Tips 적는 곳](https://github.com/yndoo/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5BC%2B%2B%5D%20%EC%BD%94%ED%85%8C%20Tips%20%EC%88%98%EC%A7%91%20%EC%A4%91.md)
 
 </div>
 </details>
