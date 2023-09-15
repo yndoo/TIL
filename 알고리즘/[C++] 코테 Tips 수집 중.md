@@ -41,6 +41,8 @@ int main() {
 }
 ```
 
+### 문자열  
+* ![](https://velog.velcdn.com/images/kuronuma_daisy/post/921029f5-e8b1-46fb-bac3-15fd3c05a953/image.png)  
 --- 
 
 ## 참고
