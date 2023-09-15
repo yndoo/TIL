@@ -75,3 +75,22 @@ int main() {
     return 0;
 }
 ```
+## 구분자가 한 글자가 아닐 수 있다!?
+* 바킹독 쓰앵임이 직접 구현해보라고 하셔서 해보았다.
+* find() 사용할 때 실수해서 잠깐 먼 길을 돌아왔었다..ㅋ
+```cpp
+vector<string> split(string& s, string& sep) {
+    int pos = 0;
+    vector<string> res;
+
+    while (pos < s.size()) {
+        int nxt_pos = s.find(sep, pos); //pos부터 찾는 것
+        if (nxt_pos == -1) {
+            nxt_pos = s.size();
+        }
+        if (nxt_pos-pos>0) res.push_back(s.substr(pos, nxt_pos-pos));
+        pos = nxt_pos + sep.size();
+    }
+    return res;
+}
+```
