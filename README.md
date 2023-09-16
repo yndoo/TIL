@@ -5,10 +5,7 @@ Today I Learned.
 [벨로그](https://velog.io/@kuronuma_daisy)에 더 자유롭게 기록합니다.
 
 
----  
-<details>
-<summary>2023-06 ~ now</summary>
-<div markdown="1">       
+---    
 
 # Category    
 
@@ -59,6 +56,7 @@ Today I Learned.
 * TIL 2023-09-03 - [운동 메모 앱 수정 - 식단 메모 기능 추가](https://github.com/yndoo/DietMemoApp/commit/7c52b29c2c3f5818196100118c2f75582876a37a)
 * TIL 2023-09-04 - [운동 메모 앱 수정 - 프로필 세팅 UI 추가](https://github.com/yndoo/DietMemoApp/commit/112aa4fa7608cc059ae800a02cc015a8b7f83dd9)
 * TIL 2023-09-05 - [영민이를 위한 운동 메모 앱 ver.2 완성!!](https://github.com/yndoo/DietMemoApp)
+* TIL 2023-09-16 - [망고플레이트 앱버전 만들어보기 - 맛집리스트 추가](https://github.com/yndoo/mango_contents)
 
 </div>
 </details>
@@ -140,6 +138,3 @@ Today I Learned.
 </details>
 
 
-
-</div>
-</details>
