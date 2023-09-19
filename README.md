@@ -57,6 +57,7 @@ Today I Learned.
 * TIL 2023-09-04 - [운동 메모 앱 수정 - 프로필 세팅 UI 추가](https://github.com/yndoo/DietMemoApp/commit/112aa4fa7608cc059ae800a02cc015a8b7f83dd9)
 * TIL 2023-09-05 - [영민이를 위한 운동 메모 앱 ver.2 완성!!](https://github.com/yndoo/DietMemoApp)
 * TIL 2023-09-16 - [망고플레이트 앱버전 만들어보기 - 맛집리스트 추가](https://github.com/yndoo/mango_contents)
+* TIL 2023-09-16 - [망고플레이트 앱버전 만들어보기 - 북마크 기능 추가 및 README 작성](https://github.com/yndoo/mango_contents)
 
 </div>
 </details>
@@ -111,6 +112,7 @@ Today I Learned.
   * TIL 2023-09-04 - DP 타일링 공부.. 및 풀이 [타일채우기](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2133.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0), [암호코드](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2011.%E2%80%85%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C)
   * TIL 2023-09-08 - DP 세 문제 공부..(또?) [0908](https://github.com/yndoo/algorithm-study/commits/main)
   * TIL 2023-09-13 - C++로 전향 후 첫 기록?ㅠㅠ 재귀 공부 [하노이 탑 이동 순서](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C), [Z](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z)
+  * TIL 2023-09-19 - [탑](https://github.com/yndoo/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2493.%E2%80%85%ED%83%91)  
     
     
 ### Programmers
