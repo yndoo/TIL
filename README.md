@@ -57,7 +57,8 @@ Today I Learned.
 * TIL 2023-09-04 - [운동 메모 앱 수정 - 프로필 세팅 UI 추가](https://github.com/yndoo/DietMemoApp/commit/112aa4fa7608cc059ae800a02cc015a8b7f83dd9)
 * TIL 2023-09-05 - [영민이를 위한 운동 메모 앱 ver.2 완성!!](https://github.com/yndoo/DietMemoApp)
 * TIL 2023-09-16 - [망고플레이트 앱버전 만들어보기 - 맛집리스트 추가](https://github.com/yndoo/mango_contents)
-* TIL 2023-09-16 - [망고플레이트 앱버전 만들어보기 - 북마크 기능 추가 및 README 작성](https://github.com/yndoo/mango_contents)
+* TIL 2023-09-19 - [망고플레이트 앱버전 만들어보기 - 북마크 기능 추가 및 README 작성](https://github.com/yndoo/mango_contents)
+* TIL 2023-09-20 - [D-Day 앱 만들기](https://github.com/yndoo/Dday_App)  
 
 </div>
 </details>
