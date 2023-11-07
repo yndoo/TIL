@@ -9,6 +9,12 @@ Today I Learned.
 
 # Category    
 
+### [1. Algoritm 포스팅✍️](https://github.com/yndoo/TIL/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
+### [2. Algorithm 풀이🧵](https://github.com/yndoo/algorithm-study)
+### [3. Android📱](https://github.com/yndoo/TIL/tree/main/Android)  
+### [4. CS 및 여러 가지📖](https://github.com/yndoo/TIL/tree/main/CS)  
+
+<!-- 
 <details>
 <summary>Android(with kotlin)</summary>
 <div markdown="1">       
@@ -142,4 +148,4 @@ Today I Learned.
 </div>
 </details>
 
-
+-->
