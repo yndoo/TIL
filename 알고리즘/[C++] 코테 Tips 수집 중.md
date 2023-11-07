@@ -42,7 +42,45 @@ int main() {
 ```
 
 ### 문자열  
-* ![](https://velog.velcdn.com/images/kuronuma_daisy/post/921029f5-e8b1-46fb-bac3-15fd3c05a953/image.png)  
+* ![](https://velog.velcdn.com/images/kuronuma_daisy/post/921029f5-e8b1-46fb-bac3-15fd3c05a953/image.png)
+
+### find() 두 가지
+#### 헤더 1
+```cpp
+#inclue <string>
+```  
+#### 사용법  
+`s.find(찾을 문자열 , 검색 시작 위치, 찾을 문자열 길이)`
+`찾은 문자열의 첫 위치 반환`
+```cpp
+	string s = "My Hello World!";
+	
+	if (s.find("Nothing") == string::npos)
+		cout << "npos\n";					// npos
+
+	cout << s.find("Hello") << "\n";		// 3
+	cout << s.find("H", 3) << "\n";			// 3
+	cout << s.find(" ", 3) << "\n";			// 8 (두 번째 공백의 위치 검색되었음)
+	cout << s.find("long", 3, 2) << "\n";	// 6 (long에서 2글자인 lo만 검색하기 때문)
+```
+#### 헤더 2
+```cpp
+#inclue <algorithm>
+```  
+#### 사용법  
+`find(찾기 시작할 위치, 마지막 위치, 찾을 값)  `
+`find(v.begin(), v.end(), 10);`
+`iterator로 반환`
+```cpp
+	vector<int> v = { 100, 655, 1, -40, 10, 55 };
+    
+	vector<int>::iterator it = find(v.begin(), v.end(), 10);
+    
+	cout << *it << "\n";			// 10
+	cout << it - v.begin() << "\n";	// 4 (인덱스 알아내는 법)
+```
+
+
 --- 
 
 ## 참고
